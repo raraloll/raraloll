@@ -30,37 +30,39 @@ Building scalable home infrastructure, improving automation workflows, and expan
 ---
 
 ## 🏠 Home Lab Infrastructure
+
+```text
 docker/
 ├── core-infrastructure/
-│ ├── reverse-proxy-stack
-│ ├── portainer
-│ └── gluetun (VPN routing)
+│   ├── reverse-proxy-stack
+│   ├── portainer
+│   └── gluetun (VPN routing)
 │
 ├── media-stack/
-│ ├── jellyfin-stack
-│ ├── radarr
-│ ├── sonarr
-│ ├── prowlarr
-│ ├── navidrome
-│ └── movie-roulette
+│   ├── jellyfin-stack
+│   ├── radarr
+│   ├── sonarr
+│   ├── prowlarr
+│   ├── navidrome
+│   └── movie-roulette
 │
 ├── web-platform/
-│ ├── raralol-site
-│ ├── homepage dashboard
-│ ├── umami analytics
-│ ├── searxng (private search)
-│ └── owncast
+│   ├── raralol-site
+│   ├── homepage dashboard
+│   ├── umami analytics
+│   ├── searxng
+│   └── owncast
 │
 ├── tools-and-services/
-│ ├── it-tools
-│ ├── firefly-iii
-│ ├── kiwix offline knowledge base
-│ └── iSponsorBlockTV
+│   ├── it-tools
+│   ├── firefly-iii
+│   ├── kiwix
+│   └── iSponsorBlockTV
 │
 └── experiments/
-├── archive/
-└── dumbpad/
-
+    ├── archive/
+    └── dumbpad/
+```
 ---
 
 ## Featured Projects
