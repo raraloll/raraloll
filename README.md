@@ -48,7 +48,7 @@ Building scalable home infrastructure, improving automation workflows, and expan
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raraloll&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raraloll&show_icons=true)
 
 ---
 
