@@ -50,7 +50,6 @@ docker/
 │   ├── raralol-site
 │   ├── homepage dashboard
 │   ├── umami analytics
-│   ├── searxng
 │   └── owncast
 │
 ├── tools-and-services/
@@ -60,7 +59,7 @@ docker/
 │   └── iSponsorBlockTV
 │
 └── experiments/
-    ├── archive/
+    ├── archive/ (old projects)
     └── dumbpad/
 ```
 ---
