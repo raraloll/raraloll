@@ -29,6 +29,50 @@ Building scalable home infrastructure, improving automation workflows, and expan
 
 ---
 
+## 🏠 Home Lab Infrastructure
+docker/
+├── core-infrastructure/
+│ ├── reverse-proxy-stack
+│ ├── portainer
+│ └── gluetun (VPN routing)
+│
+├── media-stack/
+│ ├── jellyfin-stack
+│ ├── radarr
+│ ├── sonarr
+│ ├── prowlarr
+│ ├── navidrome
+│ └── movie-roulette
+│
+├── web-platform/
+│ ├── raralol-site
+│ ├── homepage dashboard
+│ ├── umami analytics
+│ ├── searxng (private search)
+│ └── owncast
+│
+├── tools-and-services/
+│ ├── it-tools
+│ ├── firefly-iii
+│ ├── kiwix offline knowledge base
+│ └── iSponsorBlockTV
+│
+└── experiments/
+├── archive/
+└── dumbpad/
+
+---
+
+## Featured Projects
+
+### 🏠 Home Server Infrastructure
+Self-hosted Docker environment running media, networking, and automation services with a focus on modularity and privacy.
+
+### 🌐 Self-Hosted Web Ecosystem
+Collection of privacy-focused web services including search, analytics, dashboards, and personal web tools.
+
+---
+
 ## Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
